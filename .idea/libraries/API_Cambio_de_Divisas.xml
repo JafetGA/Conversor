@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="API_Cambio_de_Divisas">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/API_Cambio_de_Divisas.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
